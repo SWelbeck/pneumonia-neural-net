@@ -1,7 +1,7 @@
 # Detecting Pneumonia with Deep Learning
 ![deep_learning](https://cdn-images-1.medium.com/max/1600/0*5BKVjZL7eojyU1wH.jpg)
 
-**Authors** Sandra Wellbeck and Joe Marx
+**Authors** Sandra Welbeck and Joe Marx
 
 ## Overview
 
